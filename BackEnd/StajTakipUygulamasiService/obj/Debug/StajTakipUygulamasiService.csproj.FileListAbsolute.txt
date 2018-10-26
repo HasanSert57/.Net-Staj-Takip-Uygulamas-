@@ -1,0 +1,27 @@
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll.config
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.pdb
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.csprojAssemblyReference.cache
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.csproj.CoreCompileInputs.cache
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.pdb
+C:\Users\TheBlackShadow\Desktop\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll.config
+C:\Users\TheBlackShadow\Desktop\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.pdb
+C:\Users\TheBlackShadow\Desktop\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.csprojAssemblyReference.cache
+C:\Users\TheBlackShadow\Desktop\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.csproj.CoreCompileInputs.cache
+C:\Users\TheBlackShadow\Desktop\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.pdb
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll.config
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.pdb
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.csprojAssemblyReference.cache
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.csproj.CoreCompileInputs.cache
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.pdb
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll.config
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\bin\StajTakipUygulamasiService.pdb
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipUygulamasiService\StajTakipUygulamasiService\obj\Debug\StajTakipUygulamasiService.pdb

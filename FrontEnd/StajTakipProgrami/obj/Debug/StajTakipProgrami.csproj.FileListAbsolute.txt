@@ -1,0 +1,462 @@
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojAssemblyReference.cache
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CoreCompileInputs.cache
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CopyComplete
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+c:\users\theblackshadow\documents\visual studio 2017\Projects\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojAssemblyReference.cache
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CopyComplete
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CopyComplete
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+C:\Users\lenovo\Desktop\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
+E:\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+E:\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+E:\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+E:\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojAssemblyReference.cache
+E:\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CoreCompileInputs.cache
+E:\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CopyComplete
+E:\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+E:\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojAssemblyReference.cache
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CopyComplete
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\stajjjj\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojAssemblyReference.cache
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CopyComplete
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojAssemblyReference.cache
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CoreCompileInputs.cache
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csproj.CopyComplete
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+C:\Users\TheBlackShadow\Desktop\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll.config
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\StajTakipProgrami.pdb
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.exe.config
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csc.rsp
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.exe.config
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\csi.rsp
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.AppContext.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Console.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Compression.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Claims.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.ValueTuple.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.exe.config
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\vbc.rsp
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.dll
+C:\Users\ABRA\Desktop\HASAN SERT\masaüstü\Son Hali\StajTakipProgrami(1)\StajTakipProgrami\StajTakipProgrami\obj\Debug\StajTakipProgrami.pdb
